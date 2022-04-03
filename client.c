@@ -13,6 +13,7 @@ extern int errno;
   
 #define PORT     8080 
 #define MAXN 1024 
+
 // 1 is read
 // 2 is write
 // 3 is data
